@@ -2,11 +2,11 @@
 
 A Kahoot-style mobile quiz on **Network Technologies** and **Internet Technologies** for Grade 10-12 Computer Applications Technology (CAT) learners, aligned to the CAPS curriculum. Built with MIT App Inventor and released as an Open Educational Resource (OER).
 
-![Home screen](screenshots/home.jpg)
-![Quiz screen](screenshots/quiz.jpg)
-![Results screen](screenshots/results.jpg)
-![How To screen](screenshots/howto.jpg)
-![OER/About screen](screenshots/oer.jpg)
+![Home screen](screenshots/home.jpeg)
+![Quiz screen](screenshots/quiz.jpeg)
+![Results screen](screenshots/results.jpeg)
+![How To screen](screenshots/howto.jpeg)
+![OER/About screen](screenshots/oer.jpeg)
 
 ## Target audience
 
